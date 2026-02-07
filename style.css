@@ -92,6 +92,8 @@ button{
 .projects img{
     border: 3px solid #3882f6;
     border-radius: 10px;
+    height: 200px;
+    width: 200px;
 }
 
 blockquote{
