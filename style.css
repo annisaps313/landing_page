@@ -26,7 +26,8 @@ header, .hero, footer,
     padding: 2em 1em;
 }
 
-header, .hero, footer, a, button{
+header, .hero, footer, a, button,
+.call-to-action .container{
     color: white;
 }
 
@@ -103,4 +104,15 @@ blockquote p{
 
 blockquote h3{
     text-align: right;
+}
+
+.call-to-action .container{
+    background: #3882f6;
+    padding: 1em 5em;
+    border-radius: 16px;
+}
+
+.call-to-action button{
+    border: 2px solid white;
+    background: none;
 }
