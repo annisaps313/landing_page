@@ -116,3 +116,7 @@ blockquote h3{
     border: 2px solid white;
     background: none;
 }
+
+.hero img{
+    height: 200px;
+}
