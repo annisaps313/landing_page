@@ -20,6 +20,7 @@ header, .hero, footer,
 .call-to-action{
     display: flex;
     justify-content: center;
+    padding: 2em 1em;
 }
 
 header, .hero, footer, a{
