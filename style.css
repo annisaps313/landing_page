@@ -15,6 +15,13 @@ header, .hero, footer{
     background: #1f2937;
 }
 
+header, .hero, footer,
+.projects, blockquote, 
+.call-to-action{
+    display: flex;
+    justify-content: center;
+}
+
 header, .hero, footer, a{
     color: white;
 }
