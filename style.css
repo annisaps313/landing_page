@@ -59,6 +59,10 @@ header ul{
     gap: 2em;
 }
 
+header li:hover{
+    border-bottom: 3px solid #3882f6;
+}
+
 header a{
     text-decoration: none;
 }
