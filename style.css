@@ -47,3 +47,13 @@ footer .container{
     font-weight: 900;
     font-size: 24px;
 }
+
+header ul{
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}
+
+header a{
+    text-decoration: none;
+}
