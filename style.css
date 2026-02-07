@@ -23,7 +23,7 @@ header, .hero, footer,
     padding: 2em 1em;
 }
 
-header, .hero, footer, a{
+header, .hero, footer, a, button{
     color: white;
 }
 
@@ -56,4 +56,13 @@ header ul{
 
 header a{
     text-decoration: none;
+}
+
+.hero button{
+    background: #3882f6;
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 0;
+    font-size: 16px;
 }
