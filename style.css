@@ -97,9 +97,6 @@ button{
 .projects img{
     border: 3px solid #3882f6;
     border-radius: 10px;
-    height: 200px;
-    width: 200px;
-    object-fit: cover;
 }
 
 blockquote{
@@ -132,10 +129,10 @@ blockquote h3{
     color: #3882f6;
 }
 
-.hero img{
-    height: 200px;
-}
-
 .call-to-action section{
     max-width: 550px;
+}
+
+img{
+    object-fit: cover;
 }
