@@ -78,3 +78,14 @@ button{
 .hero p{
     color: #e5e7eb;
 }
+
+.projects-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+}
+
+.projects img{
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
