@@ -8,8 +8,10 @@ html{
 
 body{
     font-family: 'Courier New', Courier, monospace;
+    margin: 0;
 }
 
 header, .hero, footer{
     background: #1f2937;
 }
+
