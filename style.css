@@ -29,7 +29,8 @@ header .container,
 }
 
 .projects .container,
-blockquote .container{
+blockquote .container,
+footer .container{
     text-align: center;
     max-width: 1000px;
 }
