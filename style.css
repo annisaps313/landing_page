@@ -68,15 +68,16 @@ button{
     padding: 8px 25px;
     font-weight: bold;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .hero button{
     background: #3882f6;
-    transition: font-size 1s ease-in-out;
+    transition: padding 0.2s ease;
 }
 
 .hero button:hover{
-    font-size: 16px;
+    padding: 10px 28px;
 }
 
 .hero h1{
@@ -135,4 +136,12 @@ blockquote h3{
 
 img{
     object-fit: cover;
+}
+
+.hero{
+    height: 300px;
+}
+
+.hero section{
+    height: 250px;
 }
