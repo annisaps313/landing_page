@@ -59,12 +59,15 @@ header a{
     text-decoration: none;
 }
 
-.hero button{
-    background: #3882f6;
+button{
+    border: 0;
     padding: 8px 25px;
     border-radius: 10px;
+}
+
+.hero button{
+    background: #3882f6;
     font-weight: bold;
-    border: 0;
 }
 
 .hero h1{
