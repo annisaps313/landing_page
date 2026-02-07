@@ -19,7 +19,8 @@ header, .hero, footer, a{
     color: white;
 }
 
-header .container{
+header .container,
+.hero .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
