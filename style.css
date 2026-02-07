@@ -34,6 +34,7 @@ header .container,
     justify-content: space-between;
     align-items: center;
     width: 1000px;
+    gap: 1em;
 }
 
 .projects .container,
