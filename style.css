@@ -15,3 +15,6 @@ header, .hero, footer{
     background: #1f2937;
 }
 
+header, .hero, footer, a{
+    color: white;
+}
