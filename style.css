@@ -20,7 +20,8 @@ header, .hero, footer, a{
 }
 
 header .container,
-.hero .container{
+.hero .container, 
+.call-to-action .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
