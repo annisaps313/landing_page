@@ -123,3 +123,7 @@ blockquote h3{
 .hero img{
     height: 200px;
 }
+
+.call-to-action section{
+    max-width: 550px;
+}
