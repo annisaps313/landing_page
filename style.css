@@ -9,3 +9,7 @@ html{
 body{
     font-family: 'Courier New', Courier, monospace;
 }
+
+header, .hero, footer{
+    background: #1f2937;
+}
