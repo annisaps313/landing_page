@@ -62,7 +62,6 @@ header ul{
 
 header li:hover{
     border-bottom: 3px solid #3882f6;
-    font-weight: bold;
 }
 
 header a{
