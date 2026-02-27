@@ -142,6 +142,7 @@ img{
 
 .hero{
     height: 400px;
+    padding-top: 0;
 }
 
 .hero section{
