@@ -145,6 +145,7 @@ img{
 }
 
 .hero section{
+    width: 600px;
     height: 250px;
     display: flex;
     flex-direction: column;
