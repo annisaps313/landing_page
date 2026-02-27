@@ -78,11 +78,6 @@ button{
 
 .hero button{
     background: #3882f6;
-    transition: padding 0.2s ease;
-}
-
-.hero button:hover{
-    padding: 10px 28px;
 }
 
 .hero h1{
